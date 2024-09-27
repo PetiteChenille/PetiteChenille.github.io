@@ -6,7 +6,7 @@ layout: default
 * * *
 
 Currently completing a master **Cryptology and Computer Security** at Bordeaux University, France. This master combines mathematics and computer science.
-
+Maelie is I. I am the real Maelie.
 I previously graduate from a **Computer Science and Mathematics Bachelor** in 2023 at Bordeaux University, France.
 
 [Courses followed](./courses.html)
